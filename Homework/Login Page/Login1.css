@@ -1,0 +1,33 @@
+div{
+    text-align: center;
+     font-size: 25px;
+ }
+input{
+    font: normal 25px/1.6 system-ui, sans-serif;
+    border: 1px solid silver;
+    margin-bottom: 15px;
+}
+input:hover{
+       
+        border-color: green;
+        }
+
+button{
+    background-color: green;
+    color: white;
+    border: 1px solid silver;
+    margin-bottom: 15px;
+    padding-left: 90px;
+    padding-right: 90px;
+
+   
+    font-size: 15px;
+}
+#message-id1{
+    margin-top: 0px;
+    margin-bottom: 10px;
+    margin-left: 90px;
+}
+#checkbox-id{
+    margin-left: 345px;
+}
